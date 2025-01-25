@@ -1,0 +1,2 @@
+GET http://localhost:3000/customers?search=john&company=Acme
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTczNzc4NTQ2MCwiZXhwIjoxNzM3Nzg5MDYwfQ.OP7amYIa-TBIlg0t60n_4Qe6gdwCplco7w1wJBDJRKE
